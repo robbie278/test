@@ -9,10 +9,12 @@
     width: 30%;
     height: 50vh;
     background-color: bisque;
+    margin-right: 15px;
 }
 
 .div2{
     width: 30%;
     height: 50vh;
     background-color: rgb(196, 255, 209);
+    text-align: center;
 }
