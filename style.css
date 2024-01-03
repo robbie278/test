@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.div1{
+    width: 30%;
+    height: 50vh;
+    background-color: bisque;
+}
+
+.div2{
+    width: 30%;
+    height: 50vh;
+    background-color: rgb(196, 255, 209);
+}
